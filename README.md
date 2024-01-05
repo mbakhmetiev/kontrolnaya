@@ -49,3 +49,4 @@
 ```
 
 
+### ![Блок-схема](kontrolnaya_diagram.png)
