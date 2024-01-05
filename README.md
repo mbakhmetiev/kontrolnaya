@@ -47,6 +47,5 @@
         }
         Console.Write("]");
 ```
-
-
-### ![Блок-схема](kontrolnaya_diagram.png)
+#### Блок-схема
+![](kontrolnaya_diagram.png)
